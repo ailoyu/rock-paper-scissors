@@ -1,0 +1,4 @@
+vn/edu/hutech/test/OperatorsTest.java
+ vn.edu.hutech.test.OperatorsTest
+vn/edu/hutech/test/rps_game_test.java
+ vn.edu.hutech.test.rps_game_test

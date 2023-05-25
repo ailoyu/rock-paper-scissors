@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="vn.edu.hutech.test.rps_game_test" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-20T00:47:41" hostname="DESKTOP-PIDI2C1" time="0.019">
+  <properties/>
+  <testcase name="test()" classname="vn.edu.hutech.test.rps_game_test" time="0.019"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
